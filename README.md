@@ -8,6 +8,13 @@
 - Система комментариев и оценок, позволяющая делиться пользователям личным опытом. 
 
 сроки: 14.04.25 - 5.06.25
+поиск ингредиентов выполняется через API FatSecret
 <img width="1617" height="959" alt="image" src="https://github.com/user-attachments/assets/caf1f19c-243d-4851-b07a-f9c18a091d4e" />
-
 <img width="1578" height="889" alt="image" src="https://github.com/user-attachments/assets/863d8c84-5eeb-4bcd-89c3-71177045fae4" />
+<img width="1775" height="844" alt="image" src="https://github.com/user-attachments/assets/b781dd32-e97a-4f9d-a44c-a2dcff216b24" />
+<img width="1765" height="928" alt="image" src="https://github.com/user-attachments/assets/73971a0e-7c8d-4c18-9e9d-34ecd4467c68" />
+<img width="1684" height="923" alt="image" src="https://github.com/user-attachments/assets/a8e5defb-a7c0-4ca2-889a-8c85d3b34cd9" />
+<img width="1507" height="793" alt="image" src="https://github.com/user-attachments/assets/a9addd6c-de6f-46c1-bf5e-3b03009620d0" />
+<img width="1716" height="988" alt="image" src="https://github.com/user-attachments/assets/4e0fcf8d-5ab0-487d-b872-71e356039eb2" />
+<img width="1700" height="993" alt="image" src="https://github.com/user-attachments/assets/039d8982-801b-4fce-a160-ea335fb4a763" />
+
